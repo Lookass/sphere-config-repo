@@ -4,7 +4,7 @@ server:
 
 # Eureka configuration
 eureka:
-  name: discovery-service
+  name: discovery-server
   region: default
   preferSameZone: true
   shouldUseDns: false
